@@ -1,0 +1,12 @@
+{
+  "user": [
+    {
+      "id": "9ebb0be5-6ad1-4b54-b4b9-1707e3735388",
+      "userName": "admin",
+      "userPwd": "0cc175b9c0f1b6a831c399e269772661"
+    }
+  ],
+  "info": {
+    "initialization": true
+  }
+}
